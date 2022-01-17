@@ -1,7 +1,5 @@
 # General
-This is the repository associated with the youtube tutorial at: TODO:
-It is very simplistic and is meant as a guideline for implementing a Machine Learning API and not necessarily a good Machine Learning algorithm.
-I put particular emphasis on making this tutorial as short as possible.
+An simple example on how to deploy machine learning model using docker and fastapi.
 
 ## To run:
 ### Locally
