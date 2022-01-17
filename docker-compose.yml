@@ -1,0 +1,10 @@
+version: "3"
+services:
+  api-tita:
+    restart: always
+    build:
+      dockerfile: Dockerfile
+      context: .
+    ports:
+      - "8000:8000"
+    image: api-tita:lastet
