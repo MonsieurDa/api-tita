@@ -1,7 +1,6 @@
 import unittest
 
-from main import SurvivePredictor, PersonInformation, app
-from fastapi import FastAPI, HTTPException
+from main import SurvivePredictor, PersonInformation
 
 class TestClassifier(unittest.TestCase):
     def test_classifier(self):
