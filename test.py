@@ -1,5 +1,4 @@
 import unittest
-
 from main import SurvivePredictor, PersonInformation
 
 class TestClassifier(unittest.TestCase):
