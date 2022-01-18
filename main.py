@@ -65,7 +65,7 @@ predictor = SurvivePredictor()
 def root(): # = main entrypoint
     #return {"GoTo": "/docs"}
 
-    return "Hello app"
+    return {"check the link" : "/docs"}
 
 
 @app.post("/will_survive")
