@@ -4,7 +4,6 @@ from main import SurvivePredictor, PersonInformation
 class TestClassifier(unittest.TestCase):
     """
     Allows to test the classifier
-
     Args:
         unittest.Testcase: [description]
     """
