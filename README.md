@@ -33,3 +33,7 @@ find IP: `docker ps`
 
 ## Data From
 Kaggle: https://www.kaggle.com/c/titanic-dataset/data
+
+
+## CI/CD with GitHub actions
+I also implemented to CI/CD pipeline which allows followings tasks when push or pull request on master branch 1 - set up python 2 - Install dependencies with requirements.txt 3 - Lint with fake8 4 - Unittest python script 5 - and Build and Push docker Image on dockerhub
