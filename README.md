@@ -41,3 +41,9 @@ I also implemented to CI/CD pipeline which allows followings tasks when push or 
 5 - and Build and Push docker Image on dockerhub
 =======
 
+## GitLab
+1 - set up python
+2 - Install dependencies with requirements.txt
+3 - Lint with fake8
+4 - Unittest python script
+5 - and Build and Push docker Image on dockerhub
