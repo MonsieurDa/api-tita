@@ -2,6 +2,12 @@ import unittest
 from main import SurvivePredictor, PersonInformation
 
 class TestClassifier(unittest.TestCase):
+    """
+    Allows to test the classifier
+
+    Args:
+        unittest.Testcase: [description]
+    """
     def test_classifier(self):
         """a simple test implemented to test predictions of the classifier
         """
