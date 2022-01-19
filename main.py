@@ -2,7 +2,7 @@
 This file defines the server
 and the class we use to predict using our trained classifier
 
-We will put the two into one file to save some time for the tutorial.
+We will put the two into one file to save some time for the exercice.
 In practice make sure to have them in separate classes.
 """
 from multiprocessing.managers import ValueProxy
